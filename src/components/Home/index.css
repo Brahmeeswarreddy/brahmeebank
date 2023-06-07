@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+}
+.bgContainer {
+  background-color: #183b56;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.imageContainer {
+  margin-right: 1000px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  width: 100px;
+}
+
+.heading {
+  color: white;
+}
